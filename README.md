@@ -3,7 +3,6 @@ Test automation is the process of executing test cases automatically using softw
 
 | **Project Name** | **Description** |
 | --- | --- |
-
 | Data Driven Testing with form status | Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. |
 
 
