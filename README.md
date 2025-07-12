@@ -1,6 +1,5 @@
 ## UiPath-Git-Integration
-A simple, ready-to-run demo.<br>
-More: https://github.com/alfredbot01?tab=repositories <br><br>
+A simple, ready-to-run demo.https://github.com/alfredbot01?tab=repositories <br><br>
 ![alt_text](https://github.com/bacdillon/AutomationTesting/blob/main/others.png)
 
 ## Optimize Testing with UiPath Automation
